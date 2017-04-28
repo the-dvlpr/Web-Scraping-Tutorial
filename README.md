@@ -1,5 +1,5 @@
 # Web Scraping/Crawling Tutorial
-Find the video tutorial on my YouTube channel [here](https://www.youtube.com/dvlpr).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cswubkLlocI" frameborder="0" allowfullscreen></iframe>
 
 ### Credentials
 Make sure to update your login info in the credentials.rb file.
@@ -12,7 +12,7 @@ or
 
 ### UPDATES (since videos were made)
 I've made some fairly simple updates since the videos.
-- changed the ```ruby while true``` loops to `loop do` loops with a break condition using a constant variable set at top
+- changed the ```while true``` loops to `loop do` loops with a break condition using a constant variable set at top
 - added more variables for counting, tracking, and info output
 - added top 100 users on instagram at the bottom of `auto_follow.rb`
 
