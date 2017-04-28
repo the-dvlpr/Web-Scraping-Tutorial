@@ -18,9 +18,6 @@ I've made some fairly simple updates since the videos.
 
 ### Libraries Used
 [watir](https://github.com/watir/watir) for crawling in live browser
-
 [pry](https://github.com/pry/pry) ruby REPL
-
 [rb-readline](https://github.com/ConnorAtherton/rb-readline) ruby IRB and dependency of pry
-
 [awesome-print](https://github.com/awesome-print/awesome_print) for clearer console output
