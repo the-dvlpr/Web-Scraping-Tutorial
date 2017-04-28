@@ -1,4 +1,7 @@
 # Web Scraping/Crawling Tutorial
+A tutorial on web scraping and crawling aimed to get you up and running in 15 minutes.
+
+### YouTube Videos
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=cswubkLlocI" target="\_blank"><img src="http://img.youtube.com/vi/cswubkLlocI/0.jpg"
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=Bh4gy602NTs" target="\_blank"><img src="http://img.youtube.com/vi/Bh4gy602NTs/0.jpg"
