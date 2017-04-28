@@ -12,12 +12,12 @@ or
 
 ### UPDATES (since videos were made)
 I've made some fairly simple updates since the videos.
-- changed the `while true` loops to `loop do` loops with a break condition using a constant variable set at top
+- changed the ```ruby while true``` loops to `loop do` loops with a break condition using a constant variable set at top
 - added more variables for counting, tracking, and info output
 - added top 100 users on instagram at the bottom of `auto_follow.rb`
 
 ### Libraries Used
 [watir](https://github.com/watir/watir) for crawling in live browser<br>
-[pry](https://github.com/pry/pry) ruby REPL\n
-[rb-readline](https://github.com/ConnorAtherton/rb-readline) ruby IRB and dependency of pry
+[pry](https://github.com/pry/pry) ruby REPL<br>
+[rb-readline](https://github.com/ConnorAtherton/rb-readline) ruby IRB and dependency of pry<br>
 [awesome-print](https://github.com/awesome-print/awesome_print) for clearer console output
