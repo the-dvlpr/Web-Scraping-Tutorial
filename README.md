@@ -18,7 +18,7 @@ To run each file navigate to the main directory (web_scraper) in your terminal a
 or
 `$ ruby auto_liker.rb`
 
-### UPDATES (since videos were made)
+### Updates (since videos were made)
 I've made some fairly simple updates since the videos.
 - changed the ```while true``` loops to `loop do` loops with a break condition using a constant variable set at top
 - added more variables for counting, tracking, and info output
